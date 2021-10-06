@@ -1,6 +1,6 @@
 ## TL;DR
-`JupyterLab` notebook exploring the contents of
-*Deep Learning from Scratch: Building with Python from First Principles*.
+`JupyterLab` notebook exploring various little *sweet* examples of `Python 3`
+syntactic sugar. 
 
 **Quickstart On Mac with Docker:**
 ```
