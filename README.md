@@ -1,5 +1,5 @@
 ## TL;DR
-`JupyterLab` notebook exploring various *Pythonic* solutions to common problems
+`JupyterLab` notebook exploring various *pythonic* solutions to common problems
 in `Python 3`.
 
 **Quickstart On Mac with Docker:**
